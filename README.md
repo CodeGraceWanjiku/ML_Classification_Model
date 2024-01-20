@@ -108,6 +108,6 @@ Understanding customer churn patterns goes beyond the realm of data science; it 
  
 In conclusion, this project not only unravels the intricacies of customer churn in the telecommunication industry but also provides a robust framework for predicting and mitigating potential losses. The combination of exploratory analysis, machine learning, and hyperparameter tuning equips businesses with the tools to navigate the dynamic landscape of customer behavior and devise effective retention strategies.
 
-📈 **Read the Full Article: [Deciphering Customer Churn Dynamics](https://medium.com/p/4d63e68a052e/edit) 📈**
+📈 **Read the Full Article: [https://medium.com/p/4d63e68a052e/edit](https://medium.com/@grakashi/a-machine-learning-pipeline-that-predicts-whether-the-customer-will-churn-or-not-4d63e68a052e) 📈**
  
 This isn't just about data; it's about transforming insights into actionable strategies. Let's revolutionize the way we approach customer retention! 💪✨
